@@ -1,0 +1,19 @@
+.list_skill {
+  background-color:4f5a9b;
+  border-style: double;
+  border-width: 5px;
+  overflow: hidden;
+  border-radius:
+  color: #51bca1;
+  font-family: 'Lato', sans-serif;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  margin-top: 15px;
+  margin-bottom: 30px;
+}
+.tiny{
+  height:50px;
+  width:50px;
+  border-top-left-radius:50px;
+}
